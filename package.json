@@ -61,7 +61,7 @@
     "webpack-dev-server": "^1.14.1"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "lodash.filter": "^4.3.0",
     "lodash.foreach": "^4.2.0",
     "lodash.isnumber": "^3.0.3",
